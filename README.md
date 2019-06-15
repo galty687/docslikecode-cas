@@ -1,2 +1,3 @@
-# docslikecode-cas
-This is a demo repo for collaboration
+# 文档代码化研修班学员心得体会
+
+用来演示分工协同写作
